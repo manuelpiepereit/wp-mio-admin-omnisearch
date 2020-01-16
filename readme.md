@@ -3,6 +3,8 @@
 Adds a global admin search living in the admin bar for easier post discovery.
 All post types that are `'exclude_from_search' => false` and `'show_in_rest' => true` will show up in the post results and within the filter dropdown.
 
+![Searching for 'sta'](screenshot.png "Admin OmniSearch")
+
 ## Customization
 
 Use this filter to unset unwanted post types
