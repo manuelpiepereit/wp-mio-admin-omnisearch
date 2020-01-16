@@ -1,11 +1,12 @@
 <?php
 /*
  Plugin Name: m.io Admin OmniSearch
- Plugin URI: https://github.com/manuelpiepereit/wp-admin-omnisearch
+ Plugin URI: https://github.com/manuelpiepereit/wp-mio-admin-omnisearch
  Description: A global admin search living in the admin bar
  Version: 0.9.0
  Author: manou.io
  Author URI: https://www.manou.io
+ License: MIT
  Text Domain: mio-omnisearch
  Domain Path: /lang
 */
